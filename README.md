@@ -2,13 +2,7 @@
 
 # 最简单的 OpenClaw 入门手册
 
-<!-- 教程元数据 -->
-- **名称**：github-openclaw-easy-tutorial  
-- **简介**：最简单的 OpenClaw 入门手册：从零到接飞书/Telegram/WhatsApp、改人设、多 Agent 实践，零基础可读。  
-- **GitHub 简介（可作仓库 About 描述）**：github-openclaw-easy-tutorial — 最简单的 OpenClaw 入门手册，零基础可读。  
-- **语言**：中文  
-- **适用**：个人用户、二次开发与多角色协作实践者  
-- **权威参考**：[官方文档](https://docs.openclaw.ai) · [多语言文档 www.openclawx.cloud](https://www.openclawx.cloud)
+**github-openclaw-easy-tutorial** 是一份面向中文读者的 OpenClaw 入门手册，从零到接飞书/Telegram/WhatsApp、改人设、多 Agent 实践，零基础可读，适合个人用户与二次开发、多角色协作实践者。本教程的**在线阅读站**为 [openclawcn.me](https://openclawcn.me)。更权威与完整的说明请参考 [官方文档](https://docs.openclaw.ai) 与 [多语言文档 www.openclawx.cloud](https://www.openclawx.cloud)。
 
 ---
 
