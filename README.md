@@ -3,14 +3,12 @@
 # 最简单的 OpenClaw 入门手册
 
 <!-- 教程元数据 -->
-| 项目 | 说明 |
-|------|------|
-| **名称** | github-openclaw-easy-tutorial |
-| **简介** | 最简单的 OpenClaw 入门手册：从零到接飞书/Telegram/WhatsApp、改人设、多 Agent 实践，零基础可读。 |
-| **GitHub 简介（可作仓库 About 描述）** | github-openclaw-easy-tutorial — 最简单的 OpenClaw 入门手册，零基础可读。 |
-| **语言** | 中文 |
-| **适用** | 个人用户、二次开发与多角色协作实践者 |
-| **权威参考** | [官方文档](https://docs.openclaw.ai) · [多语言文档 www.openclawx.cloud](https://www.openclawx.cloud) |
+- **名称**：github-openclaw-easy-tutorial  
+- **简介**：最简单的 OpenClaw 入门手册：从零到接飞书/Telegram/WhatsApp、改人设、多 Agent 实践，零基础可读。  
+- **GitHub 简介（可作仓库 About 描述）**：github-openclaw-easy-tutorial — 最简单的 OpenClaw 入门手册，零基础可读。  
+- **语言**：中文  
+- **适用**：个人用户、二次开发与多角色协作实践者  
+- **权威参考**：[官方文档](https://docs.openclaw.ai) · [多语言文档 www.openclawx.cloud](https://www.openclawx.cloud)
 
 ---
 
